@@ -1,8 +1,6 @@
-package com.medhost.sample.moduleb;
+package com.mycompany.sample.moduleb;
 
 import org.junit.Assert;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by pandian on 4/29/15.

@@ -1,4 +1,4 @@
-package com.medhost.sample.moduleb;
+package com.mycompany.sample.moduleb;
 
 /**
  * Created by pandian on 4/29/15.
